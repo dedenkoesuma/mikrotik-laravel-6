@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\mikrotik\resources\views/partials/footer.blade.php ENDPATH**/ ?>
